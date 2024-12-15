@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1050009072962",
+    "firebase_url": "https://projetofinaldm-eadd1-default-rtdb.firebaseio.com",
+    "project_id": "projetofinaldm-eadd1",
+    "storage_bucket": "projetofinaldm-eadd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050009072962:android:42ab3befb488135ba144db",
+        "android_client_info": {
+          "package_name": "com.example.securednotepad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDT35BbBEz6ouakT1QA_55YnLyXpVm7KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
